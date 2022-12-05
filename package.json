@@ -1,0 +1,24 @@
+{
+    "name": "com.the25thstudio.factorysystem",
+    "version": "0.1.0",
+    "displayName": "The 25th Studio - Factory System",
+    "description": "Unity 3D Factory System",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "keywords": [
+      "Factory System"
+    ],
+    "author": {
+      "name": "The 25th Studio",
+      "email": "paulo.sigrist@gmail.com",
+      "url": "https://github.com/25thstudio/FactorySystem"
+    },
+    "type": "library",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/25thstudio/FactorySystem.git"
+    },
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com/@25thstudio"
+    }
+  }
